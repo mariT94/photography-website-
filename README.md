@@ -1,1 +1,1 @@
-This is a new project which offer a possible design on a photography website, it is based on an original picture, on backgrounds trying to mix colours and typography, jut to give the best impression.
+This is a new project which offers a possible design on a photography website, it is based on an original picture, on backgrounds, mix of colours and typography, just to give the best impression.
