@@ -1,0 +1,17 @@
+:root
+{
+    --color: #435C73;
+    --color2: #F2C879;
+    --color3: #D9BC9A;
+    --color4:#D97925;
+    --color5:#0D0D0D; 
+    --white: #FFFFFF;
+    --sm:14px;
+    --md:16px;
+    --lg: 18px;
+
+}
+body
+{
+    font-family: 'Quicksand', sans-serif;
+}
