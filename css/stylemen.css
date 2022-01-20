@@ -1,0 +1,55 @@
+:root
+{
+    --color: #435C73;
+    --color2: #F2C879;
+    --color3: #D9BC9A;
+    --color4:#151B26;
+    --color5:#0D0D0D; 
+    --white: #FFFFFF;
+    --sm:14px;
+    --md:16px;
+    --lg: 18px;
+}
+
+ 
+
+.desktop-menu{
+    width: 100px;
+    height: auto;
+    border: 1px solid var(--color4);
+    border-radius: 10px;
+    padding:20px 20px 0 20px;
+}
+.desktop-menu ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+.desktop-menu ul li{
+    text-align:end;
+  }
+
+.desktop-menu ul li:last-child{
+    padding-top: 20px;
+    border-top: 1px solid var(--color);
+}
+.desktop-menu ul li:last-child a{
+    color: var(--color);
+    font-size: var(--sm);
+
+}
+
+.desktop-menu ul li:last-child a{
+    color: var(--color);
+    font-size: var(--sm);
+    
+}
+
+.desktop-menu ul li a{
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 20px;
+    
+}
