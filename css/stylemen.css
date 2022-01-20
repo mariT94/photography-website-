@@ -10,7 +10,9 @@
     --md:16px;
     --lg: 18px;
 }
-
+body{
+    font-family: 'Quicksand', sans-serif;
+}
  
 
 .desktop-menu{
@@ -30,13 +32,16 @@
     text-align:end;
   }
 
+
 .desktop-menu ul li:last-child{
     padding-top: 20px;
     border-top: 1px solid var(--color);
+  
 }
 .desktop-menu ul li:last-child a{
     color: var(--color);
     font-size: var(--sm);
+    font-weight: normal;
 
 }
 
@@ -51,5 +56,5 @@
     text-decoration: none;
     display: inline-block;
     margin-bottom: 20px;
-    
-}
+    font-weight: bold;
+    }
